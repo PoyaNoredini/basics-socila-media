@@ -1,0 +1,15 @@
+#django
+Django==4.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.3.1
+
+mysqlclient==2.2.4
+
+pillow==10.2.0
+
+pkg_resources==0.0.0
+PyJWT==2.8.0
+pytz==2024.1
+sqlparse==0.4.4
+typing_extensions==4.9.0
